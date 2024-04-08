@@ -63,7 +63,7 @@
               "node_modules/ckeditor/ckeditor.js",
               "node_modules/emotion-ratings/dist/emotion-ratings.js",
    
-              "node_modules/datatables.net/js/jquery.dataTables.js",
+              "node_modules/datatables.net/js/dataTables.js",
               "node_modules/datatables.net-dt/js/dataTables.dataTables.js",
               "node_modules/datatables.net-buttons/js/dataTables.buttons.js",
               "node_modules/datatables.net-buttons/js/buttons.print.js",
